@@ -13,3 +13,7 @@ Since this e-book was developed with the Calibre system, the Calibre E-book Mana
   Thank you!
   
   Mike Rapp
+  
+  ##Known Issues
+  
+  2016-12-01 - Received Reports that epub document not loading under linux.
